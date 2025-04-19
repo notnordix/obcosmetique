@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Premium Natural Cosmetics",
+    "description": "Discover our collection of premium natural cosmetics made with organic ingredients for radiant, healthy skin.",
+    "keywords": "cosmetics, natural cosmetics, organic skincare, beauty products, Ob cosmétique, premium beauty",
+    "imageAlt": "Premium Natural Cosmetics Collection"
+  },
+  "header": {
+    "brand": "Ob cosmétique"
+  },
+  "hero": {
+    "tagline": "Premium Natural Cosmetics",
+    "title": "Reveal Your Natural Beauty",
+    "subtitle": "Discover our collection of premium cosmetics made with natural ingredients for radiant, healthy skin.",
+    "cta": "View Our Collection"
+  },
+  "products": {
+    "title": "Featured Products",
+    "empty": {
+      "title": "No Products Available",
+      "description": "We're currently updating our product catalog. Please check back soon for our latest collection of premium cosmetics.",
+      "cta": "Join Our Newsletter"
+    },
+    "badge": "NEW",
+    "price": "MAD",
+    "premiumQuality": "Premium Quality"
+  },
+  "newsletter": {
+    "icon": "Join Our Beauty Circle",
+    "title": "Join Our Beauty Circle",
+    "description": "Subscribe to receive exclusive offers, beauty tips, and first access to our newest products. Elevate your beauty routine with insider knowledge.",
+    "shortDescription": "Subscribe for exclusive offers and beauty tips. Be the first to know about new products.",
+    "benefits": {
+      "offers": "Exclusive offers and early access",
+      "recommendations": "Personalized beauty recommendations",
+      "guides": "Seasonal beauty guides and tips"
+    },
+    "form": {
+      "title": "Subscribe Now",
+      "placeholder": "Enter your email address",
+      "button": "Subscribe",
+      "subscribing": "Subscribing...",
+      "privacy": "We respect your privacy. Unsubscribe at any time."
+    },
+    "success": {
+      "title": "You're In!",
+      "message": "Thank you for joining our beauty community. Watch your inbox for exclusive updates."
+    }
+  },
+  "footer": {
+    "tagline": "Premium natural cosmetics",
+    "copyright": "All rights reserved."
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": {
+      "title": "Your cart is empty",
+      "description": "Looks like you haven't added any products to your cart yet.",
+      "cta": "Continue Shopping"
+    },
+    "total": "Total",
+    "checkout": "Checkout",
+    "item": "item",
+    "items": "items"
+  },
+  "product": {
+    "highlights": "Product Highlights",
+    "about": "About this product",
+    "shipping": "Free shipping",
+    "shippingInfo": "Enjoy complimentary shipping on all orders",
+    "relatedTitle": "You Might Also Like",
+    "quantity": "Quantity",
+    "addToCart": "Add to Cart",
+    "addedToCart": "Added to Cart",
+    "features": {
+      "crueltyFree": "Cruelty-free and vegan",
+      "allSkinTypes": "Suitable for all skin types"
+    },
+    "notFound": {
+      "title": "Product Not Found",
+      "description": "We couldn't find the product you're looking for. It may have been removed or the URL might be incorrect.",
+      "returnHome": "Return to Homepage",
+      "browseProducts": "Browse Products"
+    }
+  },
+  "location": {
+    "title": "Our Location",
+    "marrakech": "Marrakech"
+  },
+  "checkout": {
+    "title": "Complete Your Order",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "city": "City",
+      "address": "Shipping Address",
+      "totalItems": "Total Items",
+      "total": "Total",
+      "submit": "Submit Order",
+      "processing": "Processing..."
+    },
+    "success": {
+      "title": "Order Submitted!",
+      "message": "Thank you for your order. We'll contact you shortly with details."
+    }
+  }
+}

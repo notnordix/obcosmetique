@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "Cosmétiques Naturels Premium",
+    "description": "Découvrez notre collection de cosmétiques premium fabriqués avec des ingrédients naturels pour une peau radieuse et saine.",
+    "keywords": "cosmétiques, cosmétiques naturels, soins de la peau bio, produits de beauté, Ob cosmétique, beauté premium",
+    "imageAlt": "Collection de Cosmétiques Naturels Premium"
+  },
+  "header": {
+    "brand": "Ob cosmétique"
+  },
+  "hero": {
+    "tagline": "Cosmétiques Naturels Premium",
+    "title": "Révélez Votre Beauté Naturelle",
+    "subtitle": "Découvrez notre collection de cosmétiques premium fabriqués avec des ingrédients naturels pour une peau radieuse et saine.",
+    "cta": "Voir Notre Collection"
+  },
+  "products": {
+    "title": "Produits Vedettes",
+    "empty": {
+      "title": "Aucun Produit Disponible",
+      "description": "Nous mettons actuellement à jour notre catalogue de produits. Revenez bientôt pour découvrir notre dernière collection de cosmétiques premium.",
+      "cta": "Rejoignez Notre Newsletter"
+    },
+    "badge": "NOUVEAU",
+    "price": "MAD",
+    "premiumQuality": "Qualité Premium"
+  },
+  "newsletter": {
+    "icon": "Rejoignez Notre Cercle de Beauté",
+    "title": "Rejoignez Notre Cercle de Beauté",
+    "description": "Abonnez-vous pour recevoir des offres exclusives, des conseils beauté et un accès prioritaire à nos nouveaux produits. Améliorez votre routine beauté avec des connaissances d'initiés.",
+    "shortDescription": "Abonnez-vous pour des offres exclusives et des conseils beauté. Soyez le premier à connaître les nouveaux produits.",
+    "benefits": {
+      "offers": "Offres exclusives et accès anticipé",
+      "recommendations": "Recommandations beauté personnalisées",
+      "guides": "Guides et conseils beauté saisonniers"
+    },
+    "form": {
+      "title": "Abonnez-vous Maintenant",
+      "placeholder": "Entrez votre adresse e-mail",
+      "button": "S'abonner",
+      "subscribing": "Abonnement en cours...",
+      "privacy": "Nous respectons votre vie privée. Désabonnez-vous à tout moment."
+    },
+    "success": {
+      "title": "Vous êtes inscrit !",
+      "message": "Merci d'avoir rejoint notre communauté beauté. Surveillez votre boîte de réception pour des mises à jour exclusives."
+    }
+  },
+  "footer": {
+    "tagline": "Cosmétiques naturels premium",
+    "copyright": "Tous droits réservés."
+  },
+  "cart": {
+    "title": "Votre Panier",
+    "empty": {
+      "title": "Votre panier est vide",
+      "description": "Il semble que vous n'ayez pas encore ajouté de produits à votre panier.",
+      "cta": "Continuer vos Achats"
+    },
+    "total": "Total",
+    "checkout": "Commander",
+    "item": "article",
+    "items": "articles"
+  },
+  "product": {
+    "highlights": "Points Forts du Produit",
+    "about": "À propos de ce produit",
+    "shipping": "Livraison gratuite",
+    "shippingInfo": "Profitez de la livraison gratuite sur toutes les commandes",
+    "relatedTitle": "Vous Pourriez Aussi Aimer",
+    "quantity": "Quantité",
+    "addToCart": "Ajouter au Panier",
+    "addedToCart": "Ajouté au Panier",
+    "features": {
+      "crueltyFree": "Sans cruauté et végétalien",
+      "allSkinTypes": "Convient à tous les types de peau"
+    },
+    "notFound": {
+      "title": "Produit Non Trouvé",
+      "description": "Nous n'avons pas trouvé le produit que vous recherchez. Il a peut-être été supprimé ou l'URL est incorrecte.",
+      "returnHome": "Retour à l'Accueil",
+      "browseProducts": "Parcourir les Produits"
+    }
+  },
+  "location": {
+    "title": "Notre Emplacement",
+    "marrakech": "Marrakech"
+  },
+  "checkout": {
+    "title": "Finaliser Votre Commande",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Email",
+      "phone": "Numéro de Téléphone",
+      "city": "Ville",
+      "address": "Adresse de Livraison",
+      "totalItems": "Total Articles",
+      "total": "Total",
+      "submit": "Soumettre la Commande",
+      "processing": "Traitement en cours..."
+    },
+    "success": {
+      "title": "Commande Soumise !",
+      "message": "Merci pour votre commande. Nous vous contacterons prochainement avec les détails."
+    }
+  }
+}
