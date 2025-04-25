@@ -89,7 +89,7 @@ export function HeroSection({ lang, dictionary }: { lang: Locale; dictionary: an
         className="absolute inset-0"
       >
         <Image
-          src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=2187&auto=format&fit=crop"
+          src="/hero-image.jpg"
           alt="Ob cosmétique hero image showing natural cosmetic products"
           fill
           priority
